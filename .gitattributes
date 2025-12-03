@@ -1,3 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-Environment_Temperature_change.csv filter=lfs diff=lfs merge=lfs -text
-Environment_Temperature_change.csv.xlsx filter=lfs diff=lfs merge=lfs -text
