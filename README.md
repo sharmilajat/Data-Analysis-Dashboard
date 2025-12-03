@@ -1,89 +1,109 @@
 🌍 **Environment Temperature Change Analysis (NOAA/FAO)**
-🧊 **Excel Dashboard • Data Cleaning • Trend Analysis
-**
+
+🧊 Excel Dashboard • Data Cleaning • Trend Analysis
+
 This project analyzes global temperature change over time using the Environment Temperature Change (NOAA/FAO) dataset. The goal was to clean the data, transform it for analysis, and build an interactive Excel dashboard to highlight temperature trends across countries and years.
 
 📁 **Project Overview**
-
 This repository contains:
+
 ✔ Raw dataset (CSV)
+
 ✔ Cleaned & transformed dataset
+
 ✔ Excel file with Pivot Tables
+
 ✔ Interactive Excel Dashboard
+
 ✔ Documentation of the full workflow
 
-🛠️** Skills Used**
+🛠️ **Skills Used**
+
 Data Cleaning (Power Query, Excel functions)
+
 Unpivoting & transforming structured data
+
 Pivot Tables & Pivot Charts
+
 Slicers & Report Connections
+
+KPI creation
+
 Data visualization
+
 Trend analysis
 
-📊 **Dashboard Features**
-✅ 1. **KPI Cards
-**Total Countries Covered
-Average Temperature Change Since 1961
-Minimum Annual Temperature & Year
-Maximum Annual Temperature & Year
-
-✅ 2.** Charts**
-📈 Yearly Temperature Trend Chart
-🌡 Top/Bottom Countries by Temperature Change
-📉 Min & Max Temperature Comparison
-🌍 Country-wise Temperature Change Analysis
-
-✅ 3. **Interactive Slicers**
-    Country
-    Year
-
-All slicers are connected across pivot tables for smooth interactivity.
-
-🔄 Step-by-Step Workflow
+🔄 **Step-by-Step Workflow**
 1️⃣ **Data Import**
+
 Loaded the NOAA/FAO dataset into Excel.
-2️⃣ **Data Cleaning (Power Query)**
+
+2️⃣ **Data Cleaning** (Power Query)
+
 Removed empty rows & duplicates
+
 Checked and corrected data types (important for year & temperature)
+
 Unpivoted temperature columns → created:
+
 Year
+
 Temperature
+
 Temperature_Change
+
 3️⃣ **Data Transformation**
+
 Created new calculated fields:
+
 Average temperature change since 1961
+
 KPI indicator values
-4️⃣ **Exploratory Data Analysis
-**Identified:
+
+4️⃣ **Exploratory Data Analysis**
+
+Identified:
+
 Minimum & maximum temperature by year
+
+Long-term warming trends
+
 Country patterns
-5️⃣ **Dashboard Building
-**
+
+**5️⃣Dashboard Building**
+
 Designed Pivot Tables
+
 Connected slicers
+
 Added KPIs, charts, formatting
+
 Used consistent colors & layout
 
-📌** Key Insights**
-🌡 Global temperatures show a consistent upward trend after the 1980s.
-🌍 Some countries experience significantly higher temperature fluctuations.
-📉 The coolest year in the dataset was 2008 (after cleaning & unpivoting).
-📈 2016–2019 show some of the warmest years globally.
-📚 Learning Outcomes
+📚**Learning Outcomes**
 
-**From this project, I gained hands-on experience with:**
+From this project, I gained hands-on experience with:
+
 Power Query transformation
+
 Unpivoting datasets for time-series analysis
+
 Creating interactive dashboards
+
 Correcting data types and ensuring accurate pivot results
+
 Climate trend interpretation
 
-🤝 **Open for Collaboration
-**
+🤝 **Open for Collaboration**
+
 I’m always open to:
+
 Feedback
+
 Suggestions to improve analysis
+
 Collaborating on climate or data analytics projects
+
 Exploring more datasets
 
 ⭐ If you found this project helpful, please star the repository!
