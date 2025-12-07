@@ -19,91 +19,91 @@ This repository contains:
 
 🛠️ **Skills Used**
 
-  Data Cleaning (Power Query, Excel functions)
+  - Data Cleaning (Power Query, Excel functions)
 
-  Unpivoting & transforming structured data
+  - Unpivoting & transforming structured data
 
-  Pivot Tables & Pivot Charts
+  - Pivot Tables & Pivot Charts
 
-  Slicers & Report Connections
+  - Slicers & Report Connections
 
-  KPI creation
+  - KPI creation
 
-  Data visualization
+  - Data visualization
 
-  Trend analysis
+  - Trend analysis
 
 🔄 **Step-by-Step Workflow**
 1️⃣ **Data Import**
 
-  Loaded the NOAA/FAO dataset into Excel.
+  - Loaded the NOAA/FAO dataset into Excel.
 
 2️⃣ **Data Cleaning** (Power Query)
 
-  Removed empty rows & duplicates
+  - Removed empty rows & duplicates
 
-  Checked and corrected data types (important for year & temperature)
+  - Checked and corrected data types (important for year & temperature)
 
-  Unpivoted temperature columns → created:
+  - Unpivoted temperature columns → created:
 
-  Year
+  - Year
 
-  Temperature
+  - Temperature
 
-  Temperature_Change
+  - Temperature_Change
 
 3️⃣ **Data Transformation**
 
-  Created new calculated fields:
+  - Created new calculated fields:
 
-  Average temperature change since 1961
+  - Average temperature change since 1961
 
-  KPI indicator values
+  - KPI indicator values
 
 4️⃣ **Exploratory Data Analysis**
 
-  Identified:
+Identified:
 
-  Minimum & maximum temperature by year
+  - Minimum & maximum temperature by year
 
-  Long-term warming trends
+  - Long-term warming trends
 
-  Country patterns
+  - Country patterns
 
 **5️⃣Dashboard Building**
 
-  Designed Pivot Tables
+  - Designed Pivot Tables
 
-  Connected slicers
+  - Connected slicers
 
-  Added KPIs, charts, formatting
+  - Added KPIs, charts, formatting
 
-  Used consistent colors & layout
+  - Used consistent colors & layout
 
 📚**Learning Outcomes**
 
-  From this project, I gained hands-on experience with:
+  - From this project, I gained hands-on experience with:
 
-  Power Query transformation
+  - Power Query transformation
 
-  Unpivoting datasets for time-series analysis
+  - Unpivoting datasets for time-series analysis
 
-  Creating interactive dashboards
+  - Creating interactive dashboards
 
-  Correcting data types and ensuring accurate pivot results
+  - Correcting data types and ensuring accurate pivot results
 
-  Climate trend interpretation
+  - Climate trend interpretation
 
 🤝 **Open for Collaboration**
 
   I’m always open to:
 
-  Feedback
+  - Feedback
 
-  Suggestions to improve analysis
+  - Suggestions to improve analysis
 
-  Collaborating on climate or data analytics projects
+  - Collaborating on climate or data analytics projects
 
-  Exploring more datasets
+  - Exploring more datasets
 
  **If you found this project helpful, please star the repository!**
