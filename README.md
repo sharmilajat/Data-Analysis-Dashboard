@@ -1,10 +1,10 @@
-🌍 **Environment Temperature Change Analysis (NOAA/FAO)**
+# 🌍 **Environment Temperature Change Analysis (NOAA/FAO)**
 
-🧊 Excel Dashboard • Data Cleaning • Trend Analysis
+# 🧊 Excel Dashboard • Data Cleaning • Trend Analysis
 
 This project analyzes global temperature change over time using the Environment Temperature Change (NOAA/FAO) dataset. The goal was to clean the data, transform it for analysis, and build an interactive Excel dashboard to highlight temperature trends across countries and years.
 
-📁 **Project Overview**
+# 📁 **Project Overview**
 This repository contains:
 
   ✔ Raw dataset (CSV)
@@ -17,7 +17,7 @@ This repository contains:
 
   ✔ Documentation of the full workflow
 
-🛠️ **Skills Used**
+# 🛠️ **Skills Used**
 
   - Data Cleaning (Power Query, Excel functions)
 
@@ -33,7 +33,7 @@ This repository contains:
 
   - Trend analysis
 
-🔄 **Step-by-Step Workflow**
+# 🔄 **Step-by-Step Workflow**
 1️⃣ **Data Import**
 
   - Loaded the NOAA/FAO dataset into Excel.
@@ -80,7 +80,7 @@ Identified:
 
   - Used consistent colors & layout
 
-📚**Learning Outcomes**
+# 📚**Learning Outcomes**
 
   - From this project, I gained hands-on experience with:
 
@@ -94,7 +94,7 @@ Identified:
 
   - Climate trend interpretation
 
-🤝 **Open for Collaboration**
+# 🤝 **Open for Collaboration**
 
   I’m always open to:
 
